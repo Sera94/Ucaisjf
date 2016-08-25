@@ -1,0 +1,36 @@
+
+
+body{
+    background-color: #ddd;
+}
+#container{
+    width: 550px;
+    height: 400px;
+    background: url("1.png");
+    position: relative;
+    float: left;
+}
+.battery{
+    width: 49px;
+    height: 47px;
+    background: url("2.png");
+    position: absolute;
+    top: 350px; left: 240px;
+}
+.bullet{
+    width: 4px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: gold;
+    position: absolute;
+    bottom: 50px;
+    left: 264px;
+}
+.plane{
+    width: 69px;
+    height: 26px;
+    background: url("3.png");
+    float: left;
+    position: fixed;
+    top: 40px; left: 560px;
+}
