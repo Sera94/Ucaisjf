@@ -1,0 +1,39 @@
+.container{
+    background: #DDDDDD;
+    height: 660px;
+}
+img{
+    width: 900px;
+    height: 550px;
+}
+a{
+    font-size: 26px;
+    text-decoration: none;
+}
+.come-in{
+    text-align: center;
+}
+.txt{
+    text-align: center;
+}
+.sunset{
+    height: 100px;
+    border: 1px solid #d5d5d5;
+    font-size: 50px;
+    /*font-weight: bold;*/
+    text-align: center;
+    line-height: 100px;
+}
+.sunset2{
+    height: 30px;
+}
+.article img{
+    width: 500px;
+    height: 500px;
+}
+.list-group-item-color{
+    background: #DDDDDD;
+}
+.detail li{
+    color: black;
+}
